@@ -1,0 +1,10 @@
+/home/coffee/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/coffee/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/coffee/ros1_ws/src/foxglove_bridge -B /home/coffee/ros1_ws/src/foxglove_bridge/cmake-build-debug
+-- Using standalone ASIO
+-- ROS_VERSION: 1
+-- ROS_DISTRO: noetic
+-- ROS_ROOT: /opt/ros/noetic/share/ros
+CMake Error at CMakeLists.txt:136 (message):
+  Could not find catkin
+
+
+-- Configuring incomplete, errors occurred!
